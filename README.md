@@ -3,8 +3,8 @@
 
 [![License Info](https://img.shields.io/badge/License-GPL--3.0-blue.svg?style=flat-square)](https://github.com/FlutterGenerator/BattlegroundSurvivalESP/blob/master/LICENSE)
 
-# Fwd Assault Version: (600335) – 1.2028
-**Google Play Release Date:** 3 Nowember 2022
+# Battleground Survival Version: (27) – 6
+**Google Play Release Date:** 12 August 2026
 
 ![](img1.jpg)
 ![](img2.jpg)
