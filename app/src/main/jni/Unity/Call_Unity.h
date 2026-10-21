@@ -12,7 +12,7 @@
 #include <GLES2/gl2ext.h>
 #include "Unity/Vector2.h"
 #include "Unity/Vector3.h"
-#include "Unity/unity.h"
+#include "Unity/Unity.h"
 #include "Unity/Rect.h"
 #include "Unity/Color.h"
 #include "Unity/Quaternion.h"
