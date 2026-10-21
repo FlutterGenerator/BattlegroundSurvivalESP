@@ -5,7 +5,7 @@
 #include "NepAU/AutoUpdate.cpp"
 #include "hooks.h"
 #include "ESPManager.h"
-#include "dobby/dobby.h"
+#include "Dobby/dobby.h"
 #include <Substrate/SubstrateHook.h>
 #include <Substrate/CydiaSubstrate.h>
 
